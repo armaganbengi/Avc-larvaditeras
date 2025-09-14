@@ -1,0 +1,5 @@
+{
+  "name": "Avcılar Vadi Teras Payment Calculator",
+  "description": "A comprehensive payment plan calculator for Avcılar Vadi Teras properties. Allows users to select apartment types, terms, down payments, and interim payments to generate a detailed payment schedule and summary.",
+  "requestFramePermissions": []
+}
